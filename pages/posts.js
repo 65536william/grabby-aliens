@@ -170,11 +170,12 @@ const PostsPage = () => (
     <div>
       <div className="lg:space-y-10 sm:space-y-5 space-y-3 font-serif">
         <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
-          Hanson's blog posts
+          Hanson&apos;s blog posts
         </h3>
         <div className="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 lg:gap-16 sm:gap-10 gap-5">
           {cards.map((card) => (
             <Card
+              key={card.text}
               text={card.text}
               link={card.link}
               date={card.date}

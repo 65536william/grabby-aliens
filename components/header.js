@@ -18,7 +18,7 @@ const Header = () => (
       </Link>
       <Link href="/posts">
         <a className="text-red-700 lg:text-lg sm:text-base text-sm">
-          Hanson's blog posts
+          Hanson&apos;s blog posts
         </a>
       </Link>
       <Link href="/coverage">

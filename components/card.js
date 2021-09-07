@@ -33,6 +33,7 @@ const Card = ({ text, link, date, tags, image }) => (
           {tags &&
             tags.map((tag) => (
               <p
+                key={tag}
                 className={`font-sans font-medium lg:text-base sm:text-sm text-xs px-2 py-1 rounded-md ${getTagColour(
                   tag
                 )}`}

@@ -153,9 +153,9 @@ const IndexPage = () => (
             height="300px"
             src="https://www.youtube.com/embed/oLvzFJLLfCY"
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+            allowFullScreen
           />
         </div>
         <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">

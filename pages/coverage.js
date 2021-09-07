@@ -85,6 +85,7 @@ const CoveragePage = () => (
         <div className="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 lg:gap-16 sm:gap-10 gap-5">
           {cards.map((card) => (
             <Card
+              key={card.text}
               text={card.text}
               link={card.link}
               date={card.date}
