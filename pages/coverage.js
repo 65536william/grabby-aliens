@@ -74,8 +74,9 @@ const cards = [
 const CoveragePage = () => (
   <Layout>
     <SEO
-      title="Grabby Aliens – a simple model by Robin Hanson"
-      description="Advanced aliens really are out there, and we have enough data to say roughly where they are in space and time, and when we will meet or see them."
+      title="Coverage – Grabby Aliens"
+      metaDescription="Discussion and press coverage of the grabby aliens model by Robin Hanson et al."
+      imagePath="coverage-image"
     />
     <div>
       <div className="lg:space-y-10 sm:space-y-5 space-y-3 font-serif">

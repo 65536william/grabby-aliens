@@ -6,7 +6,7 @@ const Header = () => (
       website content by Daniel Martin and Robin Hanson
     </p>
     <p className="text-xs text-gray-400">
-      built by <a href="https://williameliot.com">William Eliot</a>
+      built by <a href="https://twitter.com/wjeliot">William Eliot</a>
     </p>
   </footer>
 );

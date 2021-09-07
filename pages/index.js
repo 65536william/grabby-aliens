@@ -8,7 +8,8 @@ const IndexPage = () => (
   <Layout>
     <SEO
       title="Grabby Aliens – a simple model by Robin Hanson"
-      description="Advanced aliens really are out there, and we have enough data to say roughly where they are in space and time, and when we will meet or see them."
+      metaDescription="Advanced aliens really are out there, and we have enough data to say roughly where they are in space and time, and when we will meet or see them."
+      imagePath="index-image"
     />
     <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-16 sm:gap-10 gap-5">
       <div className="lg:space-y-16 sm:space-y-10 space-y-5">

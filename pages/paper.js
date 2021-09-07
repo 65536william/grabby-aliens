@@ -5,8 +5,9 @@ import Card from "../components/card";
 const PaperPage = () => (
   <Layout>
     <SEO
-      title="Grabby Aliens – a simple model by Robin Hanson"
-      description="Advanced aliens really are out there, and we have enough data to say roughly where they are in space and time, and when we will meet or see them."
+      title="Astrophysical Journal Paper – Grabby Aliens"
+      metaDescription="If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare (version 3)"
+      imagePath="paper-image"
     />
     <div className="max-w-prose">
       <div className="lg:space-y-10 sm:space-y-5 space-y-3 font-serif">

@@ -164,8 +164,9 @@ const cards = [
 const PostsPage = () => (
   <Layout>
     <SEO
-      title="Grabby Aliens – a simple model by Robin Hanson"
-      description="Advanced aliens really are out there, and we have enough data to say roughly where they are in space and time, and when we will meet or see them."
+      title="Robin Hanson's blog posts – Grabby Aliens"
+      metaDescription="Core and speculative blog posts on aliens (and grabby aliens), from overcomingbias.com."
+      imagePath="posts-image"
     />
     <div>
       <div className="lg:space-y-10 sm:space-y-5 space-y-3 font-serif">

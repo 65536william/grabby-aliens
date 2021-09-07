@@ -50,8 +50,9 @@ const cards = [
 const PresentationsPage = () => (
   <Layout>
     <SEO
-      title="Grabby Aliens – a simple model by Robin Hanson"
-      description="Advanced aliens really are out there, and we have enough data to say roughly where they are in space and time, and when we will meet or see them."
+      title="Presentations – Grabby Aliens"
+      metaDescription="Interviews and hosted presentations of the grabby aliens model by Robin Hanson et al."
+      imagePath="presentations-image"
     />
     <div>
       <div className="lg:space-y-10 sm:space-y-5 space-y-3 font-serif">
