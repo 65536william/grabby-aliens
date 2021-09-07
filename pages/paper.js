@@ -18,7 +18,7 @@ const PaperPage = () => (
           <i>Astrophysical Journal</i>:
         </p>
         <p className="lg:text-xl sm:text-lg text-base">
-          <a href="https://arxiv.org/pdf/2102.01522.pdf">
+          <a href="https://arxiv.org/abs/2102.01522">
             “If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare”
             (version 3)
           </a>{" "}
@@ -50,25 +50,39 @@ const PaperPage = () => (
           >
             Jonathan Paulson
           </a>
-          , March 25th, 2021.
+          , September 7th, 2021.
         </p>
         <blockquote>
           <p className="lg:text-xl sm:text-lg text-base lg:mx-10 sm:mx-5 mx-3">
-            The hard-steps model of advanced life timing suggests humans have
-            arrived early. Our explanation: “grabby” civilizations (GC), who
-            expand fast and long, and change their volumes’ appearances, set an
-            early deadline. If we might soon become grabby, today is near a
-            sample GC birthdate. Fast GC expansion explains why we do not see
-            them. Each of our three model parameters is estimable from data,
-            allowing detailed GC predictions. If GCs arise from non-grabby
-            civilizations (NGCs), a depressingly low transition chance (~10
-            <sup>-4</sup>) seems required to expect even one other NGC ever
-            active in our galaxy.
+            If life on Earth had to achieve <em>n</em> “hard steps” to reach
+            humanity’s level, then the chance of this event rose as time to the{" "}
+            <em>n</em>-th power. Integrating this over habitable star formation
+            and planet lifetime distributions predicts &gt;99% of advanced life
+            appears after today, unless <em>n</em> &lt; 3 <em>and</em> max
+            planet duration &lt;50Gyr. That is, we seem early. We offer this
+            explanation: a deadline is set by “loud” aliens who are born
+            according to a hard steps power law, expand at a common rate, change
+            their volumes’ appearances, and prevent advanced life like us from
+            appearing in their volumes. “Quiet” aliens, in contrast, are much
+            harder to see. We fit this three- parameter model of loud aliens to
+            data: 1) <em>birth power</em> from the number of hard steps seen in
+            Earth history, 2) <em>birth constant</em> by assuming a inform
+            distribution over our rank among loud alien birth dates, and 3){" "}
+            <em>expansion speed</em> from our not seeing alien volumes in our
+            sky. We estimate that loud alien civilizations now control 40- 50%
+            of universe volume, each will later control ∼10<sup>5</sup> - 3x10
+            <sup>7</sup> galaxies, and we could meet them in ∼200Myr – 2Gyr. If
+            loud aliens arise from quiet ones, a depressingly low transition
+            chance (&lt; ∼10<sup>−4</sup>) is required to expect that even one
+            other quiet alien civilization has ever been active in our galaxy.
+            Which seems bad news for SETI. But perhaps alien volume appearances
+            are subtle, and their expansion speed lower, in which case we
+            predict many long circular arcs to find in our sky.
           </p>
         </blockquote>
         <Card
           text="Download the paper from arXiv →"
-          link="https://arxiv.org/pdf/2102.01522.pdf"
+          link="https://arxiv.org/abs/2102.01522"
         />
         <p className="lg:text-xl sm:text-lg text-base">
           (See also prior version 2{" "}

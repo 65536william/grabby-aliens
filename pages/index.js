@@ -19,6 +19,16 @@ const IndexPage = () => (
             see them.
           </h2>
         </div>
+        <div className="block lg:hidden lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
+          <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
+            Paper
+          </h3>
+          <p className="lg:text-xl sm:text-lg text-base">
+            “If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare”
+            (version 3)
+          </p>
+          <Card text="Read the Astrophysics Journal paper →" link="/paper" />
+        </div>
         <div className="block lg:hidden">
           <Image
             src={gaplot2}
@@ -138,6 +148,16 @@ const IndexPage = () => (
         </div>
       </div>
       <div className="lg:space-y-16 sm:space-y-10 space-y-5">
+        <div className="hidden lg:block lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
+          <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
+            Paper
+          </h3>
+          <p className="lg:text-xl sm:text-lg text-base">
+            “If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare”
+            (version 3), September 7th, 2021.
+          </p>
+          <Card text="Read the Astrophysical Journal paper →" link="/paper" />
+        </div>
         <div className="hidden lg:block">
           <Image
             src={gaplot2}
@@ -172,9 +192,8 @@ const IndexPage = () => (
           </p>
         </div>
         <div className="lg:space-y-7 sm:space-y-5 space-y-3">
-          <Card text="Get the paper →" link="/paper" />
-          <Card text="See presentations →" link="/presentations" />
-          <Card text="Read blog posts →" link="/posts" />
+          <Card text="Watch presentations →" link="/presentations" />
+          <Card text="See blog posts →" link="/posts" />
           <Card text="Browse coverage →" link="/coverage" />
         </div>
       </div>

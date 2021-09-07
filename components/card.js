@@ -21,9 +21,9 @@ function getTagColour(tag) {
 
 const Card = ({ text, link, date, tags, image }) => (
   <Link href={link} passHref>
-    <div className="flex flex-col bg-white lg:p-7 sm:p-5 p-3 shadow-md lg:rounded-2xl sm:rounded-xl rounded-lg h-auto">
+    <div className="flex flex-col bg-gray-50 lg:p-7 sm:p-5 p-3 lg:shadow-lg sm:shadow-md shadow lg:rounded-2xl sm:rounded-xl rounded-lg h-auto">
       <div>
-        <a className="cursor-pointer font-bold lg:text-xl sm:text-lg text-base">
+        <a className="cursor-pointer font-bold font-sans lg:text-xl sm:text-lg text-base">
           {text}
         </a>
       </div>
