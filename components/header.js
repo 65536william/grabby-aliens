@@ -9,20 +9,20 @@ const Header = () => (
     </Link>
     <nav className="flex lg:gap-7 sm:gap-5 gap-3">
       <Link href="/paper">
-        <a className="text-indigo-700 lg:text-lg sm:text-base text-sm">Paper</a>
+        <a className="text-indigo-700 lg:text-base sm:text-sm text-xs">Paper</a>
       </Link>
       <Link href="/presentations">
-        <a className="text-yellow-700 lg:text-lg sm:text-base text-sm">
+        <a className="text-yellow-700 lg:text-base sm:text-sm text-xs">
           Presentations
         </a>
       </Link>
       <Link href="/posts">
-        <a className="text-red-700 lg:text-lg sm:text-base text-sm">
+        <a className="text-red-700 lg:text-base sm:text-sm text-xs">
           Hanson&apos;s blog posts
         </a>
       </Link>
       <Link href="/coverage">
-        <a className="text-green-700 lg:text-lg sm:text-base text-sm">
+        <a className="text-green-700 lg:text-base sm:text-sm text-xs">
           Coverage
         </a>
       </Link>

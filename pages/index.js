@@ -26,7 +26,8 @@ const IndexPage = () => (
           </h3>
           <p className="lg:text-xl sm:text-lg text-base">
             “If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare”
-            (version 3)
+            by Robin Hanson, Daniel Martin, Calvin McCarter, and Jonathan
+            Paulson, September 7th, 2021.
           </p>
           <Card text="Read the Astrophysics Journal paper →" link="/paper" />
         </div>
@@ -155,7 +156,8 @@ const IndexPage = () => (
           </h3>
           <p className="lg:text-xl sm:text-lg text-base">
             “If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare”
-            (version 3), September 7th, 2021.
+            by Robin Hanson, Daniel Martin, Calvin McCarter, and Jonathan
+            Paulson, September 7th, 2021.
           </p>
           <Card text="Read the Astrophysical Journal paper →" link="/paper" />
         </div>
