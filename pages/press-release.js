@@ -47,7 +47,7 @@ const PressReleasePage = () => (
           This new math sim paper is an example of “gig science”, having been
           written by an unfunded team of non-astronomers, four strangers who
           united in response to a tweet request last December. It has recently
-          been peer-reviewed and accepted for publication in the prestigious
+          been peer-reviewed and accepted for publication in the prestigious{" "}
           <i>Astrophysical Journal</i>.
         </p>
         <p className="lg:text-xl sm:text-lg text-base">
