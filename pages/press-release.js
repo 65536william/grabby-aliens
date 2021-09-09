@@ -8,7 +8,7 @@ const PressReleasePage = () => (
       title="Grabby Aliens Explain Human Earliness, But Are Bad News for SETI"
       metaDescription="Aliens are real - we actually have enough data to say that aliens
             really are out there, and to roughly estimate where (some kinds)
-            are, what they are doing, and when we will meet them."
+            are, what they are doing, and when we will see or meet them."
       imagePath="index-image"
     />
     <div className="max-w-prose">
@@ -23,7 +23,7 @@ const PressReleasePage = () => (
           <i>
             Aliens are real - we actually have enough data to say that aliens
             really are out there, and to roughly estimate where (some kinds)
-            are, what they are doing, and when we will meet them.
+            are, what they are doing, and when we will see or meet them.
           </i>
         </p>
         <p className="lg:text-xl sm:text-lg text-base">
