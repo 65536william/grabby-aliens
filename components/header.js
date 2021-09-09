@@ -26,6 +26,11 @@ const Header = () => (
           Coverage
         </a>
       </Link>
+      <Link href="/press-release">
+        <a className="text-blue-700 lg:text-base sm:text-sm text-xs">
+          Press release
+        </a>
+      </Link>
     </nav>
   </header>
 );
