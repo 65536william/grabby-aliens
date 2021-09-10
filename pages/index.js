@@ -29,7 +29,7 @@ const IndexPage = () => (
             by Robin Hanson, Daniel Martin, Calvin McCarter, and Jonathan
             Paulson, September 7th, 2021.
           </p>
-          <Card text="Read the Astrophysics Journal paper →" link="/paper" />
+          <Card text="Read the Astrophysical Journal paper →" link="/paper" />
         </div>
         <div className="block lg:hidden">
           <Image
