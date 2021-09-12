@@ -67,7 +67,7 @@ const PaperPage = () => (
             appearing in their volumes. “Quiet” aliens, in contrast, are much
             harder to see. We fit this three- parameter model of loud aliens to
             data: 1) <em>birth power</em> from the number of hard steps seen in
-            Earth history, 2) <em>birth constant</em> by assuming a inform
+            Earth history, 2) <em>birth constant</em> by assuming a uniform
             distribution over our rank among loud alien birth dates, and 3){" "}
             <em>expansion speed</em> from our not seeing alien volumes in our
             sky. We estimate that loud alien civilizations now control 40- 50%
