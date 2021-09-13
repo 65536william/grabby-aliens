@@ -51,7 +51,7 @@ const IndexPage = () => (
             “Loud” aliens, in contrast, visibly change the volumes they control,
             and just keep expanding fast until they meet each other. As they
             should be easy to see, we can fit theories about loud aliens to our
-            data, and say much about them, as S. Jay Olsen has done in 7 related
+            data, and say much about them, as S. Jay Olson has done in 7 related
             papers (
             <a
               href="https://arxiv.org/abs/1411.4359"
