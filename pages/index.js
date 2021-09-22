@@ -169,6 +169,20 @@ const IndexPage = () => (
         </div>
         <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
           <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
+            Rational Animation
+          </h3>
+          <iframe
+            width="100%"
+            height="300px"
+            src="https://www.youtube.com/embed/l3whaviTqqg"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+        <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
+          <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
             3D Sim Movie of Model
           </h3>
           <iframe
