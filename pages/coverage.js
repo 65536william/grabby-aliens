@@ -69,6 +69,12 @@ const cards = [
     date: "June 11th, 2021",
     tags: ["article"],
   },
+  {
+    text: "Heise Online (Germany)",
+    link: "https://www.heise.de/news/Analyse-Menschheit-wird-Ausserirdische-fruehestens-in-200-Millionen-Jahren-finden-6197268.html",
+    date: "September 21st, 2021",
+    tags: ["article"],
+  },
 ];
 
 const CoveragePage = () => (
