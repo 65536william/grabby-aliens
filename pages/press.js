@@ -20,8 +20,8 @@ const cards = [
   },
   {
     text: "Durham University",
-    link: "https://www.durham.ac.uk/news-events/latest-news/2021/10/scientists-model-suggests-alien-encounters-are-on-the-horizon/",
-    date: "October 29st, 2021",
+    link: "https://grabbyaliens.com/durham-press-release",
+    date: "October 30th, 2021",
   },
 ];
 
