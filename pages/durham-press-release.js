@@ -90,8 +90,8 @@ const DurhamPressRelease = () => (
         <p className="lg:text-xl sm:text-lg text-base">
           Daniel added: “Our hypothesis offers an explanation as to why humans
           have evolved so quickly. If ‘grabby aliens’ will at some point occupy
-          all of the universe, it's like a deadline had been set for human
-          civilisation to appear, if it's not to arrive within a
+          all of the universe, it&apos;s like a deadline had been set for human
+          civilisation to appear, if it&apos;s not to arrive within a
           grabby-controlled environment.”
         </p>
         <p className="lg:text-xl sm:text-lg text-base">
