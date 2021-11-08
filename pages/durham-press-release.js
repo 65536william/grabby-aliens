@@ -1,6 +1,7 @@
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import Card from "../components/card";
+import gaplot2 from "../public/gaplot2.png";
+import Image from "next/image";
 
 const DurhamPressRelease = () => (
   <Layout>
@@ -13,9 +14,13 @@ const DurhamPressRelease = () => (
     />
     <div className="max-w-prose">
       <div className="lg:space-y-10 sm:space-y-5 space-y-3 font-serif">
-        <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
+        <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg mb-4">
           Durham University Press Release, Oct. 30, 2021.
         </h3>
+        <Image
+          src={gaplot2}
+          alt="Plot of civilisations emerging in space, over time"
+        />
         <p className="lg:text-xl sm:text-lg text-base">
           A team of scientists believe ‘grabby aliens’ are needed to explain why
           we humans have appeared so soon after the big bang, and that our
