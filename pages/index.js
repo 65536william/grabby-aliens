@@ -169,12 +169,21 @@ const IndexPage = () => (
         </div>
         <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
           <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
-            Rational Animation
+            Videos by Rational Animations
           </h3>
           <iframe
             width="100%"
             height="300px"
             src="https://www.youtube.com/embed/l3whaviTqqg"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+          <iframe
+            width="100%"
+            height="300px"
+            src="https://www.youtube.com/embed/LceY7nhi6j4"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
