@@ -75,6 +75,12 @@ const cards = [
     date: "September 21st, 2021",
     tags: ["article"],
   },
+  {
+    text: "Metaphorosis",
+    link: "https://magazine.metaphorosis.com/story/2021/the-great-contradiction-jordan-chase-young/",
+    date: "November 26th, 2021",
+    tags: ["fiction"],
+  },
 ];
 
 const CoveragePage = () => (

@@ -16,6 +16,8 @@ function getTagColour(tag) {
       return "text-purple-700 bg-purple-50";
     case "article":
       return "text-pink-700 bg-pink-50";
+    case "fiction":
+      return "text-indigo-700 bg-indigo-50";
   }
 }
 
