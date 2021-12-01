@@ -15,8 +15,8 @@ const PaperPage = () => (
           Paper
         </h3>
         <p className="lg:text-xl sm:text-lg text-base">
-          Here is our main paper on the subject, to appear in{" "}
-          <i>Astrophysical Journal</i>:
+          Here is our main paper on the subject, in <i>Astrophysical Journal</i>
+          :
         </p>
         <p className="lg:text-xl sm:text-lg text-base">
           <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac2369">
