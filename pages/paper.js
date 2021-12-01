@@ -19,7 +19,7 @@ const PaperPage = () => (
           <i>Astrophysical Journal</i>:
         </p>
         <p className="lg:text-xl sm:text-lg text-base">
-          <a href="https://arxiv.org/abs/2102.01522">
+          <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac2369">
             “If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare”
             (version 3)
           </a>{" "}
@@ -81,6 +81,10 @@ const PaperPage = () => (
             predict many long circular arcs to find in our sky.
           </p>
         </blockquote>
+        <Card
+          text="Download the paper from IOPScience →"
+          link="https://iopscience.iop.org/article/10.3847/1538-4357/ac2369"
+        />
         <Card
           text="Download the paper from arXiv →"
           link="https://arxiv.org/abs/2102.01522"

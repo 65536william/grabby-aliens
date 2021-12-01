@@ -81,10 +81,10 @@ const PressReleasePage = () => (
           </p>
           <p>
             <a
-              href="https://arxiv.org/abs/2102.01522"
+              href="https://iopscience.iop.org/article/10.3847/1538-4357/ac2369"
               className="text-indigo-700 underline lg:text-xl sm:text-lg text-base lg:mx-10 sm:mx-5 mx-3"
             >
-              https://arxiv.org/abs/2102.01522
+              https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
             </a>
           </p>
           <p>
