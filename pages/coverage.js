@@ -81,6 +81,12 @@ const cards = [
     date: "November 26th, 2021",
     tags: ["fiction"],
   },
+  {
+    text: "Harsimony",
+    link: "https://harsimony.wordpress.com/2021/12/05/implications-of-the-grabby-aliens-model/",
+    date: "December 5th, 2021",
+    tags: ["blog"],
+  },
 ];
 
 const CoveragePage = () => (
