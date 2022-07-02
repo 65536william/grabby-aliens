@@ -87,6 +87,12 @@ const cards = [
     date: "December 5th, 2021",
     tags: ["blog"],
   },
+  {
+    text: "Centauri Dreams",
+    link: "https://www.centauri-dreams.org/2022/05/20/if-loud-aliens-explain-human-earliness-quiet-aliens-are-also-rare-a-review/",
+    date: "May 20th, 2022",
+    tags: ["blog"],
+  },
 ];
 
 const CoveragePage = () => (
