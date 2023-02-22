@@ -148,6 +148,20 @@ const IndexPage = () => (
             chance to become grabby goes as the inverse of this ratio.
           </p>
         </div>
+        <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
+          <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
+            3D Sim Movie of Model
+          </h3>
+          <iframe
+            width="100%"
+            height="300px"
+            src="https://www.youtube.com/embed/oLvzFJLLfCY"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
       </div>
       <div className="lg:space-y-16 sm:space-y-10 space-y-5">
         <div className="hidden lg:block lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
@@ -169,13 +183,13 @@ const IndexPage = () => (
         </div>
         <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
           <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
-            Videos by Rational Animations
+            Popular videos on Grabby Aliens
           </h3>
           <iframe
             width="100%"
             height="300px"
             src="https://www.youtube.com/embed/l3whaviTqqg"
-            title="YouTube video player"
+            title="by Rational Animations"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
@@ -183,22 +197,17 @@ const IndexPage = () => (
           <iframe
             width="100%"
             height="300px"
-            src="https://www.youtube.com/embed/LceY7nhi6j4"
-            title="YouTube video player"
+            src="https://www.youtube.com/embed/uTrFAY3LUNw"
+            title="by PBS Space Time"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           />
-        </div>
-        <div className="lg:space-y-5 sm:space-y-3 space-y-1 font-serif">
-          <h3 className="font-sans font-bold lg:text-2xl sm:text-xl text-lg">
-            3D Sim Movie of Model
-          </h3>
           <iframe
             width="100%"
             height="300px"
-            src="https://www.youtube.com/embed/oLvzFJLLfCY"
-            title="YouTube video player"
+            src="https://www.youtube.com/embed/KBZP4rLk6bk"
+            title="by Lex Fridman"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

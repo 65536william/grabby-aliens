@@ -15,6 +15,7 @@ function getTagColour(tag) {
     case "forum":
       return "text-purple-700 bg-purple-50";
     case "article":
+    case "video":
       return "text-pink-700 bg-pink-50";
     case "fiction":
       return "text-indigo-700 bg-indigo-50";

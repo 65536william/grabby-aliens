@@ -93,6 +93,24 @@ const cards = [
     date: "May 20th, 2022",
     tags: ["blog"],
   },
+  {
+    text: "Rational Animations, video 1",
+    link: "https://www.youtube.com/watch?v=l3whaviTqqg/",
+    date: "September 22nd, 2021",
+    tags: ["video"],
+  },
+  {
+    text: "Rational Animations, video 2",
+    link: "https://www.youtube.com/watch?v=LceY7nhi6j4/",
+    date: "November 9th, 2021",
+    tags: ["video"],
+  },
+  {
+    text: "PBS Space Time",
+    link: "https://www.youtube.com/watch?v=uTrFAY3LUNw/",
+    date: "November 9th, 2022",
+    tags: ["video"],
+  },
 ];
 
 const CoveragePage = () => (
