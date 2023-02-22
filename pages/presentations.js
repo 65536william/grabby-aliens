@@ -49,7 +49,7 @@ const cards = [
     text: "Alien Civilizations, UFOs, and the Future of Humanity – Lex Fridman Podcast",
     link: "https://www.youtube.com/watch?v=KBZP4rLk6bk/",
     date: "June 9th, 2022",
-    tags: ["video"],
+    tags: ["interview"],
   },
 ];
 
