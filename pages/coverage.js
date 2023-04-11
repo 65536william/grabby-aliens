@@ -111,6 +111,12 @@ const cards = [
     date: "November 9th, 2022",
     tags: ["video"],
   },
+  {
+    text: "Kurzgesagt - In a Nutshell",
+    link: "https://www.youtube.com/watch?v=9KbEhrSU4B0/",
+    date: "April 11th, 2023",
+    tags: ["video"],
+  },
 ];
 
 const CoveragePage = () => (

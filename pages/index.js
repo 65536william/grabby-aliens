@@ -188,6 +188,15 @@ const IndexPage = () => (
           <iframe
             width="100%"
             height="300px"
+            src="https://www.youtube.com/embed/GDSf2h9_39I"
+            title="by Kurzgesagt - In a Nutshell"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+          <iframe
+            width="100%"
+            height="300px"
             src="https://www.youtube.com/embed/l3whaviTqqg"
             title="by Rational Animations"
             frameBorder="0"
