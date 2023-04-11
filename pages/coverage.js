@@ -113,7 +113,7 @@ const cards = [
   },
   {
     text: "Kurzgesagt - In a Nutshell",
-    link: "https://www.youtube.com/watch?v=9KbEhrSU4B0/",
+    link: "https://www.youtube.com/watch?v=GDSf2h9_39I/",
     date: "April 11th, 2023",
     tags: ["video"],
   },
